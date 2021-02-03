@@ -1,0 +1,157 @@
+body {
+    margin: 10px;
+    font-family: 'Varela Round', sans-serif;
+    background-image: url("BG1.jpg");
+
+ }
+ 
+ h1 {
+    margin-bottom: 0;
+ } 
+ 
+ header {
+    background-color: transparent;
+    font-size: 30px;
+    text-align: right;
+
+ }
+ .logo {
+    height: 60px;
+    width: 80px; }
+
+    .list-group-item{
+        font-family: 'Varela Round', sans-serif;
+        color: white;
+        background-color: black;
+    }
+    .list-group{
+text-align: right;   }
+ 
+
+.navbar{
+    font-family: 'Varela Round', sans-serif;
+    background-color: transparent;
+}
+a{
+    color: #e59a25;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+}
+
+a:hover{
+    color: white;
+}
+
+.container{
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    align-content: center;
+
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+    background-color:#2d1325;
+    color:white;
+  }
+
+  textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    background-color:#2d1325;
+    color:white;
+  }
+  
+  
+
+
+img {
+    width: 10%;
+    height: auto;
+  }
+
+  .footer-basic {
+    padding:40px 0;
+    background-color:#e59a25;
+    color:#2d1325;
+    margin-top: 16%;
+   
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+   
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    position: absolute;  }
+  
+  .social img {
+     width: 45px;
+     height: 45px;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.5;
+  }
+  
+  .footer-basic .copyright {
+    text-align:center;
+    font-size:13px;
+    letter-spacing: 4px;
+    color:#2d1325;
+    margin-bottom:0;
+  }
+
+  .logo {
+    float: left;
+    padding: 0px ;
+  }
+  
+  nav {
+    text-align: right;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+  }
+
+
+  
